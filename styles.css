@@ -5,12 +5,26 @@ body {
     font-family: "Arbutus";
 }
 
+.socials{
+    background-color: #9DEDC5;
+    overflow: hidden;
+}
+
 .socials a{
     float: left;
-    color: #f2f2f2;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
 }
 
+.socials a:hover{
+    background-color: aqua;
+    color: #9DEDC5;
+}
+
+.socials a:active{
+    background-color: #D6A8ED;
+    color: white;
+}
