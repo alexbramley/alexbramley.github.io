@@ -30,11 +30,11 @@ a:hover{
 }
 
 .socials a:hover{
-    background-color: #ED8679;
-    color: #D6A8ED;
+    background-color: #D6A8ED;
+    color: #ED8679;
 }
 
 .socials a.active{
-    background-color: #D6A8ED;
+    background-color: #B0A8ED;
     color: white;
 }
