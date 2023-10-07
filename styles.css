@@ -6,8 +6,13 @@ body {
 }
 
 a{
-    text-decoration: dashed;
+    text-decoration: none;
     color: #D6A8ED;
+}
+
+a:hover{
+    text-decoration: solid;
+    color: #ED8679;
 }
 
 .socials{
@@ -25,11 +30,11 @@ a{
 }
 
 .socials a:hover{
-    background-color: aqua;
-    color: #9DEDC5;
+    background-color: #ED8679;
+    color: #D6A8ED;
 }
 
-.socials a:active{
+.socials a.active{
     background-color: #D6A8ED;
     color: white;
 }
