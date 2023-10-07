@@ -5,6 +5,11 @@ body {
     font-family: "Arbutus";
 }
 
+a{
+    text-decoration: dashed;
+    color: #D6A8ED;
+}
+
 .socials{
     background-color: #9DEDC5;
     overflow: hidden;
